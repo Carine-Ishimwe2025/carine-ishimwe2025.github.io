@@ -2,4 +2,20 @@
 title: "About"
 ---
 
-About this site
+## Background
+
+I am originally from Kigali, Rwanda. I earned a Bachelor of Science in Information Systems and Technology from United States International University-Africa in Nairobi, Kenya, where I graduated Cum Laude.
+
+Before starting the Master of Data Science program at the University of British Columbia, I worked as a Global Graduate Trainee in Customer Value Management at MTN Rwandacell. In that role, I contributed to reports and dashboards, customer engagement analysis, and data-driven business insights.
+
+## Why Data Science
+
+My interest in data science comes from wanting to understand how data can be transformed into useful insights that support better decisions.
+
+During my time at MTN Rwanda, I became especially interested in how analytics can be used to understand customer behaviour and improve business outcomes. At UBC, I hope to deepen my skills in data science, machine learning, and artificial intelligence.
+
+## Projects and Interests
+
+I am the founder of Unity Lens, an initiative that explores how artificial intelligence and virtual reality can be used to preserve Rwanda's history and support peace education.
+
+I am interested in building technology and AI projects that address meaningful real-world challenges while combining data, storytelling, and social impact.
