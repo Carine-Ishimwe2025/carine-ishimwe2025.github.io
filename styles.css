@@ -1,1 +1,38 @@
 /* css styles */
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  margin: 2rem 0 4rem 0;
+}
+
+.hero-image img {
+  width: 300px;
+  border-radius: 12px;
+}
+
+.hero-text {
+  flex: 1;
+}
+
+.hero-text h1 {
+  margin-top: 0;
+  font-size: 2.6rem;
+}
+
+.hero-text p {
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .hero-image img {
+    width: 100%;
+    max-width: 300px;
+  }
+}
