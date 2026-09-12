@@ -1,6 +1,10 @@
 ---
 title: "Blog"
 listing:
-  contents: posts
-  sort: "date desc"
+    contents: posts
+    sort: "date desc"
 ---
+
+::: {.text-primary}
+**Click the post title below to read the full story.**
+:::
